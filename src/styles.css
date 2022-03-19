@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap");
+/* <script src="https://kit.fontawesome.com/8831240330.js" crossorigin="anonymous"></script> */
+@import url("https://intactui.netlify.app/main.css");
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+.app-header {
+  text-align: center;
+}
+
+.app-body {
+  margin: 0rem 2rem 0rem 2rem;
+}
